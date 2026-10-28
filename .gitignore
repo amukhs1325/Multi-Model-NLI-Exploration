@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Fine-tuning checkpoints from train_transformer.py
+runs/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
